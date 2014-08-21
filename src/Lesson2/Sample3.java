@@ -3,7 +3,7 @@ package Lesson2;
 // 最小値、最大値、範囲、平均値、合計　を表示させよう。小数点第一は切り捨て
 //　ただし、要素の個数は3以上とする。
 public class Sample3{
-	private static int date [] = {10,52,-22};
+	private static int date [] = {10,52,41,53};
 	public static void main(String[] args) {
 	System.out.println("最大値:" + Max());	
 	System.out.println("最小値:"+ Min());
